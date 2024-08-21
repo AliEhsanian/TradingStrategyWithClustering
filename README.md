@@ -2,6 +2,12 @@
 
 This repository contains a Jupyter Notebook outlining a trading strategy based on clustering stock data and optimizing portfolio allocations. The strategy leverages clustering to categorize similar assets and applies portfolio optimization techniques to maximize returns.
 
+## Files
+- `ClusteringStocksTrading.ipynb`
+- `functions.py`: Contains function definitions used in the project.
+- `main.py`: The main script that executes the functions and performs the analysis.
+- `environment.yml`
+
 ## Requirements
 
 Ensure that you have installed the Python packages listed in the `environment.yml` file.
@@ -43,3 +49,5 @@ Ensure that you have installed the Python packages listed in the `environment.ym
 ## Usage
 
 - Open the Jupyter Notebook (`ClusteringStocksTrading.ipynb`) and execute the cells sequentially to replicate the analysis and view the results.
+- `functions.py`: Contains function definitions used in the project.
+- `main.py`: The main script that executes the functions and performs the analysis.
